@@ -12,7 +12,7 @@ limiteDA = 150000
 linInf = 50
 limSup = 200
 
-Address = "C:/BSICoS/Maxim/Ensayos/"
+Address = "C:/BSICoS/Maxim/Ensayos/Asad"
 
 class ReadLine:
     def __init__(self, s):
